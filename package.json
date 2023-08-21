@@ -1,0 +1,23 @@
+{
+  "name": "youtube_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tredgate/youtube_cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tredgate/youtube_cypress/issues"
+  },
+  "homepage": "https://github.com/tredgate/youtube_cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
+}
