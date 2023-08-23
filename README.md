@@ -13,6 +13,7 @@ K instalaci budeš potřebovat:
 Jestli chceš rozběhat testy u sebe na počítači, je potřeba:
 1. Naclonovat repo
 2. Nainstalovat závislosti pomocí:
+
 ```
 npm install
 ```
