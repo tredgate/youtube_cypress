@@ -1,8 +1,8 @@
 # youtube_cypress
-Vítejte v GitHub repozitáři pro naše [YouTube video](https://www.youtube.com/watch?v=GRf8-Fp6rM4)!
+Vítejte v GitHub repozitáři pro naše [YouTube video](https://youtu.be/q3CyPSZ72ww)!
 
 ## Obsah
-Repo obsahuje Node.js projekt s nainstalovaným Cypressem a vytvořeným jednoduchým testem.
+Repo obsahuje Node.js projekt s nainstalovaným Playwright a vytvořeným jednoduchým testem.
 Dále je také nastavené GitHub Actions s jednoduchým push workflow
 
 ## Instalace
@@ -18,5 +18,5 @@ Jestli chceš rozběhat testy u sebe na počítači, je potřeba:
 npm install
 ```
 
-## Cypress Akademie
-Chceš se naučit pořádně automatizovat? Přihlas se na naši [Cypress Akademii](https://tredgate.cz/cypress-akademie/)!
+## Playwright
+Chceš se naučit o Playwrightu víc automatizovat? Přihlas se do našeho [Playwright kurzu](https://tredgate.cz/kurzy-predavani-znalosti-komunite/)!
